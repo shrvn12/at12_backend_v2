@@ -19,11 +19,11 @@
     "dotenv": "^16.4.7",
     "express": "^5.1.0",
     "http-errors": "~1.6.3",
-    "jade": "~1.11.0",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.16.5",
     "morgan": "~1.9.1",
     "nodemailer": "^7.0.9",
+    "pug": "^3.0.4",
     "ytmusic_api_unofficial": "^2.1.6",
     "ytmusic-api": "^5.3.1"
   },
